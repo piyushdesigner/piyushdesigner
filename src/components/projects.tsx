@@ -50,6 +50,7 @@ export default function Projects() {
     <li>3D Animation/Designing (Blender)</li>
     <li>Social Media Handler</li>
     <li>Copyright Responsible for Youtube</li>
+    <li>AI Tools </li>
   </ul>
 </div>
 

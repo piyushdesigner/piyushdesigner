@@ -57,7 +57,7 @@ export const projectsData = [
   },
   {
     title: "2D Animation",
-    videoUrl: "https://www.youtube.com/embed/8ScyX4sgP4c?si=b4ALVgFQ2uU-NVku",
+    videoUrl: "https://www.youtube.com/embed/AeXqYqA72GM?si=CoH8aPXZCXcy1YD_",
     thumbnailUrl: "https://img.freepik.com/free-photo/cartoon-boy-character-mountain_23-2151362997.jpg?t=st=1727359374~exp=1727362974~hmac=b1ea5db7283346842750f453ca82f00547e4f00f9187186bdfa22775538569bf&w=1060",
     category: "Reel",
   },

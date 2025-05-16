@@ -35,7 +35,7 @@ export default function About() {
                 </Fade>
                 <Fade direction="up" delay={1400} cascade damping={1e-1} triggerOnce={true}>
                   <p className="mt-2 leading-relaxed text-sm text-gray-700 dark:text-white/70">
-                  Video Editor/3D Artist with 2+ years of expertise in Video Editing and 3D Artist. Seeking opportunities to grow
+                  Video Editor/3D Artist with 3+ years of expertise in Video Editing , 3D Artist and ai tools knowledge. Seeking opportunities to grow
                   my Experienced skills in Video Editing, 3D, Animation, and Photo Editing to drive Creativity and build highperformance systems in a dynamic team environment.
                   </p>
                 </Fade>
@@ -58,6 +58,7 @@ export default function About() {
     <li> 3D Designer/Animation</li>
     <li>Photo Editor</li>
     <li>Social Media handler</li>
+    <li>AI Tools knowledge</li>
   </ul>
 </div>
 

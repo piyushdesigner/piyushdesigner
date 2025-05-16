@@ -62,7 +62,7 @@ export default function Intro() {
 
       <Fade direction="up" delay={400} cascade damping={1e-1} triggerOnce={true}>
       <h1 className="mb-10 mt-4 px-4 text-2xl sm:text-4xl">
-      <span className="font-bold !leading-[1.5] font-small">"I BELEIVE SUCCESS NOT HARDWORK"</span>{" "}
+      <span className="font-bold !leading-[1.5] font-small">"I believe in success, not hard work"</span>{" "}
   <p className="text-[9px]">
     Ready to stay update with new trend who can help me reach new trending creativity on market.
   </p>
@@ -93,7 +93,7 @@ export default function Intro() {
 
         <a
           className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 "
-          href="/Piyush.pdf"
+          href="/Piyush_kashyap.pdf"
           download
         >
           Download CV{" "}
